@@ -1,0 +1,23 @@
+# Arquivos de compilação
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Arquivos de log e backup
+*.log
+*.tar.gz
+
+# Diretório de arquivos de configuração
+.idea/
+
+# Diretório bin do Go
+bin/
+
+# Diretório de dependências
+vendor/
+
+# Arquivos temporários
+.tmp/
+.temp/
